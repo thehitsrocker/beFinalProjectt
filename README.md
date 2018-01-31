@@ -1,2 +1,0 @@
-# beFinalProjectt
-BE project
